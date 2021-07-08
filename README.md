@@ -47,5 +47,7 @@ python generate_invoice.py
 It will then ask for all the user information related to the invoice. The program will then create the invoice inside a folder named `output`(which will be created if not present) within this directory. 
 
 
-That's it. The program will then process the files.
-## 🎉 Happy Hashing. 🎉
+That's it. The program will then process the files. 
+
+Checkout out other content on TheCodeWork (https://thecodework.com)
+## 🎉 Happy Invoicing. 🎉
